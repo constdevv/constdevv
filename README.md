@@ -54,25 +54,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constdevv&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<a href="http://www.github.com/constdevv"><img src="https://github-readme-stats.vercel.app/api?username=constdevv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="constdevv's GitHub stats" /></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constdevv&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/constdevv/vectom-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=constdevv&repo=vectom-core&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 🌐 Socials
 
