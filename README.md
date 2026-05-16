@@ -1,36 +1,6 @@
 # Hi 👋 I'm const
 
-<!-- Animated SVG Header -->
-<p align="center">
-  <svg width="420" height="80" viewBox="0 0 420 80" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text {
-        font-family: 'Fira Code', monospace;
-        font-size: 28px;
-        fill: #ff3b3b;
-        animation: float 1s ease-in-out infinite alternate;
-      }
-
-      .emoji {
-        font-size: 30px;
-        animation: bounce 0.6s infinite alternate;
-      }
-
-      @keyframes float {
-        from { transform: translateY(0px); }
-        to { transform: translateY(-6px); }
-      }
-
-      @keyframes bounce {
-        from { transform: translateY(0px); }
-        to { transform: translateY(-10px); }
-      }
-    </style>
-
-    <text x="20" y="50" class="emoji">👋</text>
-    <text x="70" y="50" class="text">My name is const</text>
-  </svg>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF0F0F&width=435&lines=Web+%26+Discord+Bot+Developer)
 
 ---
 
@@ -38,43 +8,53 @@
 
 - 👨‍💻 18 y/o Full Stack Developer  
 - 🌍 Based in Azerbaijan  
-- 🧠 Discord bot & web developer  
+- 🧠 Building Discord bots & web applications  
 - 🚀 Founder of **VECTOM** ecosystem  
-- 📦 Working on `vectom-core`
+- 📦 Working on `vectom-core` module  
 
-📫 **Email:** constdevv@gmail.com  
-🌐 **Project:** https://discord.gg/vectom  
+📫 Contact: **constdevv@gmail.com**  
+🌐 Project: [VECTOM Discord](https://discord.gg/vectom)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript • TypeScript • Python • PHP • Java  
-**Frontend:** React • Next.js • Vue • TailwindCSS • Bootstrap  
-**Backend:** Node.js • Express • FastAPI  
-**Database:** MySQL • PostgreSQL • Firebase • Supabase  
-**Tools:** Git • VS Code • Figma • Google Cloud  
+### Languages
+JavaScript • TypeScript • Python • PHP • Java
+
+### Frontend
+HTML • React • Next.js • Vue • TailwindCSS • Bootstrap • Vite
+
+### Backend
+Node.js • Express • FastAPI
+
+### Databases
+MySQL • PostgreSQL • Firebase • Supabase
+
+### Tools
+Git • VS Code • Figma • Google Cloud • WordPress • Framer
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constdevv&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constdevv&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=constdevv&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=constdevv&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Socials
 
-- GitHub: https://github.com/constdevv  
-- LinkedIn: https://www.linkedin.com/in/constdevv  
-- Discord: https://discord.com/users/1496554318789214349  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/constdevv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constdevv)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1496554318789214349)
 
 ---
 
 ## ⚡ Current Focus
+
+```txt
+- Scaling VECTOM ecosystem
+- Improving vectom-core module
+- Building high-performance Discord bots
+- Full-stack web applications
